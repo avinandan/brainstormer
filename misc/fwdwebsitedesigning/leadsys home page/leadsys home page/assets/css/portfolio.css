@@ -1,0 +1,169 @@
+#options{
+    margin-bottom: 18px;
+}
+#options,
+.portfolio-pagination{
+    padding: 18px 0;
+    color: #959595;
+    background-image: -moz-linear-gradient(top,  rgba(0,0,0,.02) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,.02) 100%); /* FF3.6+ */
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,.02)), color-stop(50%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,.02))); /* Chrome,Safari4+ */
+    background-image: -webkit-linear-gradient(top,  rgba(0,0,0,.02) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,.02) 100%); /* Chrome10+,Safari5.1+ */
+    background-image: -o-linear-gradient(top,  rgba(0,0,0,.02) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,.02) 100%); /* Opera 11.10+ */
+    background-image: -ms-linear-gradient(top,  rgba(0,0,0,.02) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,.02) 100%); /* IE10+ */
+    background-image: linear-gradient(to bottom,  rgba(0,0,0,.02) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,.02) 100%); /* W3C */
+    border: 1px solid #e1e1e1;
+    font-family: sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    margin-bottom: 18px; 
+}
+#options a,
+.portfolio-pagination a{
+    color: #555;
+}
+.portfolio-pagination .left{
+    display: inline-block;
+    margin-left: 10px;
+}
+.portfolio-pagination .right{
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+#filters{
+    padding-right: 10px;
+}
+#filters li,
+#filters{
+    margin-bottom: 0;
+}
+#filters li{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    padding: 0 !important;
+}
+#container.portfolio{
+    width: 960px;
+    margin-left: -10px;
+    padding-top: 10px;
+    margin-top: -10px;
+}
+#container.portfolio .element{
+    margin-bottom: 18px;
+    text-align: center;
+    background: #fafafa;
+    padding-bottom: 13px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#container.portfolio .element .overlay_container{
+    background-color: #fff;
+}
+#container.portfolio .element a{
+    display: block;
+    margin-bottom: 13px;
+    overflow: hidden;
+}
+#container.portfolio .element a.hide{
+    display: block;
+    margin-bottom: 0;
+}
+#container.portfolio .overlay_container{
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    border-radius: 5px 5px 0 0;
+}
+#container.portfolio .element img{
+    display: block;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    border-radius: 5px 5px 0 0;
+}
+#container.portfolio .element h4{
+    font-size: 16px;
+    line-height: 18px !important;
+}
+#container.portfolio .element span{
+    font-family: sans-serif;
+    font-size: 8px;
+    text-transform: uppercase;
+}
+#container.portfolio .element span a{
+    display: inline;
+    color: #959595;
+    text-decoration: none;
+    margin-bottom: 0;
+}
+#container.portfolio .element .content{
+    padding-top: 9px;
+    margin: 0 10px;
+}
+#container.portfolio .element .content p{
+    margin-bottom: 0;
+}
+#container.portfolio .sixteen.element{
+    padding-bottom: 0;
+    text-align: left;
+    margin-bottom: 27px;
+}
+#container.portfolio .sixteen.element a{
+    margin: 0;
+}
+#container.portfolio .sixteen.element span{
+    display: block;
+    margin-bottom: 9px;
+}
+#container.portfolio .sixteen .overlay_container{
+    -moz-border-radius: 5px 0 0 5px;
+    -webkit-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+}
+#container.portfolio .sixteen.element img{
+    display: block;
+    -moz-border-radius: 5px 0 0 5px;
+    -webkit-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+}
+.hide{
+    display: none;
+    visibility: hidden;
+}
+.one-sixth.portfolio .element{
+    width: 140px;
+    margin: 0 10px 18px;
+}
+.two-thirds #container.portfolio{
+    width: 640px !important;
+}
+.portfolio-gallery{
+    margin-bottom: 36px;
+}
+.portfolio-gallery img{
+    display: block;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+.portfolio-gallery{
+    width: 640px !important;
+    margin-left: -10px;
+    padding-top: 10px;
+    margin-top: -10px;
+}
+.one-sixth.portfolio-gallery .element{
+    width: 140px;
+    padding: 0 !important;
+    margin: 0 10px 18px !important;
+}
+.share ul{
+    border: none !important;
+    margin: 0 !important;
+}
+.portfolio-post .post{
+    margin-bottom: 36px;
+}

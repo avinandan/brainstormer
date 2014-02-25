@@ -1,0 +1,2610 @@
+.button.accessibility,
+button.accessibility{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.accessibility span,
+button.accessibility span{
+   background: url('../images/button-icons/accessibility.png') no-repeat;
+}
+.button.add,
+button.add{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.add span,
+button.add span{
+   background: url('../images/button-icons/add.png') no-repeat;
+}
+.button.agenda,
+button.agenda{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.agenda span,
+button.agenda span{
+   background: url('../images/button-icons/agenda.png') no-repeat;
+}
+.button.airplane,
+button.airplane{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.airplane span,
+button.airplane span{
+   background: url('../images/button-icons/airplane.png') no-repeat;
+}
+.button.alarm,
+button.alarm{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.alarm span,
+button.alarm span{
+   background: url('../images/button-icons/alarm.png') no-repeat;
+}
+.button.album,
+button.album{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.album span,
+button.album span{
+   background: url('../images/button-icons/album.png') no-repeat;
+}
+.button.alert,
+button.alert{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.alert span,
+button.alert span{
+   background: url('../images/button-icons/alert.png') no-repeat;
+}
+.button.announcement,
+button.announcement{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.announcement span,
+button.announcement span{
+   background: url('../images/button-icons/announcement.png') no-repeat;
+}
+.button.archive,
+button.archive{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.archive span,
+button.archive span{
+   background: url('../images/button-icons/archive.png') no-repeat;
+}
+.button.arrow-down,
+button.arrow-down{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.arrow-down span,
+button.arrow-down span{
+   background: url('../images/button-icons/arrow-down.png') no-repeat;
+}
+.button.arrow-left,
+button.arrow-left{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.arrow-left span,
+button.arrow-left span{
+   background: url('../images/button-icons/arrow-left.png') no-repeat;
+}
+.button.arrow-right,
+button.arrow-right{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.arrow-right span,
+button.arrow-right span{
+   background: url('../images/button-icons/arrow-right.png') no-repeat;
+}
+.button.arrow-up,
+button.arrow-up{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.arrow-up span,
+button.arrow-up span{
+   background: url('../images/button-icons/arrow-up.png') no-repeat;
+}
+.button.art-brush,
+button.art-brush{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.art-brush span,
+button.art-brush span{
+   background: url('../images/button-icons/art-brush.png') no-repeat;
+}
+.button.auction,
+button.auction{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.auction span,
+button.auction span{
+   background: url('../images/button-icons/auction.png') no-repeat;
+}
+.button.award,
+button.award{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.award span,
+button.award span{
+   background: url('../images/button-icons/award.png') no-repeat;
+}
+.button.battery-charge,
+button.battery-charge{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.battery-charge span,
+button.battery-charge span{
+   background: url('../images/button-icons/battery-charge.png') no-repeat;
+}
+.button.battery-full,
+button.battery-full{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.battery-full span,
+button.battery-full span{
+   background: url('../images/button-icons/battery-full.png') no-repeat;
+}
+.button.battery-half,
+button.battery-half{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.battery-half span,
+button.battery-half span{
+   background: url('../images/button-icons/battery-half.png') no-repeat;
+}
+.button.battery-low,
+button.battery-low{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.battery-low span,
+button.battery-low span{
+   background: url('../images/button-icons/battery-low.png') no-repeat;
+}
+.button.bell,
+button.bell{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.bell span,
+button.bell span{
+   background: url('../images/button-icons/bell.png') no-repeat;
+}
+.button.bicycle,
+button.bicycle{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.bicycle span,
+button.bicycle span{
+   background: url('../images/button-icons/bicycle.png') no-repeat;
+}
+.button.blackberry,
+button.blackberry{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.blackberry span,
+button.blackberry span{
+   background: url('../images/button-icons/blackberry.png') no-repeat;
+}
+.button.bluetooth,
+button.bluetooth{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.bluetooth span,
+button.bluetooth span{
+   background: url('../images/button-icons/bluetooth.png') no-repeat;
+}
+.button.boat,
+button.boat{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.boat span,
+button.boat span{
+   background: url('../images/button-icons/boat.png') no-repeat;
+}
+.button.book,
+button.book{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.book span,
+button.book span{
+   background: url('../images/button-icons/book.png') no-repeat;
+}
+.button.bookmark,
+button.bookmark{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.bookmark span,
+button.bookmark span{
+   background: url('../images/button-icons/bookmark.png') no-repeat;
+}
+.button.briefcase,
+button.briefcase{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.briefcase span,
+button.briefcase span{
+   background: url('../images/button-icons/briefcase.png') no-repeat;
+}
+.button.brightness,
+button.brightness{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.brightness span,
+button.brightness span{
+   background: url('../images/button-icons/brightness.png') no-repeat;
+}
+.button.bug,
+button.bug{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.bug span,
+button.bug span{
+   background: url('../images/button-icons/bug.png') no-repeat;
+}
+.button.bus,
+button.bus{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.bus span,
+button.bus span{
+   background: url('../images/button-icons/bus.png') no-repeat;
+}
+.button.calculator,
+button.calculator{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.calculator span,
+button.calculator span{
+   background: url('../images/button-icons/calculator.png') no-repeat;
+}
+.button.calendar,
+button.calendar{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.calendar span,
+button.calendar span{
+   background: url('../images/button-icons/calendar.png') no-repeat;
+}
+.button.calendar-add,
+button.calendar-add{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.calendar-add span,
+button.calendar-add span{
+   background: url('../images/button-icons/calendar-add.png') no-repeat;
+}
+.button.calendar-delete,
+button.calendar-delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.calendar-delete span,
+button.calendar-delete span{
+   background: url('../images/button-icons/calendar-delete.png') no-repeat;
+}
+.button.calendar-edit,
+button.calendar-edit{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.calendar-edit span,
+button.calendar-edit span{
+   background: url('../images/button-icons/calendar-edit.png') no-repeat;
+}
+.button.calendar-na,
+button.calendar-na{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.calendar-na span,
+button.calendar-na span{
+   background: url('../images/button-icons/calendar-na.png') no-repeat;
+}
+.button.calendar-time,
+button.calendar-time{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.calendar-time span,
+button.calendar-time span{
+   background: url('../images/button-icons/calendar-time.png') no-repeat;
+}
+.button.camera,
+button.camera{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.camera span,
+button.camera span{
+   background: url('../images/button-icons/camera.png') no-repeat;
+}
+.button.car,
+button.car{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.car span,
+button.car span{
+   background: url('../images/button-icons/car.png') no-repeat;
+}
+.button.cd,
+button.cd{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.cd span,
+button.cd span{
+   background: url('../images/button-icons/cd.png') no-repeat;
+}
+.button.chart,
+button.chart{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.chart span,
+button.chart span{
+   background: url('../images/button-icons/chart.png') no-repeat;
+}
+.button.check,
+button.check{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.check span,
+button.check span{
+   background: url('../images/button-icons/check.png') no-repeat;
+}
+.button.check-box,
+button.check-box{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.check-box span,
+button.check-box span{
+   background: url('../images/button-icons/check-box.png') no-repeat;
+}
+.button.clipboard,
+button.clipboard{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.clipboard span,
+button.clipboard span{
+   background: url('../images/button-icons/clipboard.png') no-repeat;
+}
+.button.clock,
+button.clock{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.clock span,
+button.clock span{
+   background: url('../images/button-icons/clock.png') no-repeat;
+}
+.button.coffee-cup,
+button.coffee-cup{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.coffee-cup span,
+button.coffee-cup span{
+   background: url('../images/button-icons/coffee-cup.png') no-repeat;
+}
+.button.coffee-mug,
+button.coffee-mug{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.coffee-mug span,
+button.coffee-mug span{
+   background: url('../images/button-icons/coffee-mug.png') no-repeat;
+}
+.button.collapse,
+button.collapse{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.collapse span,
+button.collapse span{
+   background: url('../images/button-icons/collapse.png') no-repeat;
+}
+.button.comment,
+button.comment{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.comment span,
+button.comment span{
+   background: url('../images/button-icons/comment.png') no-repeat;
+}
+.button.comment-add,
+button.comment-add{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.comment-add span,
+button.comment-add span{
+   background: url('../images/button-icons/comment-add.png') no-repeat;
+}
+.button.comment-check,
+button.comment-check{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.comment-check span,
+button.comment-check span{
+   background: url('../images/button-icons/comment-check.png') no-repeat;
+}
+.button.comment-delete,
+button.comment-delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.comment-delete span,
+button.comment-delete span{
+   background: url('../images/button-icons/comment-delete.png') no-repeat;
+}
+.button.comment-disable,
+button.comment-disable{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.comment-disable span,
+button.comment-disable span{
+   background: url('../images/button-icons/comment-disable.png') no-repeat;
+}
+.button.comment-write,
+button.comment-write{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.comment-write span,
+button.comment-write span{
+   background: url('../images/button-icons/comment-write.png') no-repeat;
+}
+.button.compass,
+button.compass{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.compass span,
+button.compass span{
+   background: url('../images/button-icons/compass.png') no-repeat;
+}
+.button.connect,
+button.connect{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.connect span,
+button.connect span{
+   background: url('../images/button-icons/connect.png') no-repeat;
+}
+.button.connection-signal,
+button.connection-signal{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.connection-signal span,
+button.connection-signal span{
+   background: url('../images/button-icons/connection-signal.png') no-repeat;
+}
+.button.construction,
+button.construction{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.construction span,
+button.construction span{
+   background: url('../images/button-icons/construction.png') no-repeat;
+}
+.button.construction-hat,
+button.construction-hat{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.construction-hat span,
+button.construction-hat span{
+   background: url('../images/button-icons/construction-hat.png') no-repeat;
+}
+.button.contact-book,
+button.contact-book{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.contact-book span,
+button.contact-book span{
+   background: url('../images/button-icons/contact-book.png') no-repeat;
+}
+.button.contact-card,
+button.contact-card{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.contact-card span,
+button.contact-card span{
+   background: url('../images/button-icons/contact-card.png') no-repeat;
+}
+.button.contrast,
+button.contrast{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.contrast span,
+button.contrast span{
+   background: url('../images/button-icons/contrast.png') no-repeat;
+}
+.button.controller-eject,
+button.controller-eject{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-eject span,
+button.controller-eject span{
+   background: url('../images/button-icons/controller-eject.png') no-repeat;
+}
+.button.controller-forward,
+button.controller-forward{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-forward span,
+button.controller-forward span{
+   background: url('../images/button-icons/controller-forward.png') no-repeat;
+}
+.button.controller-next,
+button.controller-next{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-next span,
+button.controller-next span{
+   background: url('../images/button-icons/controller-next.png') no-repeat;
+}
+.button.controller-pause,
+button.controller-pause{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-pause span,
+button.controller-pause span{
+   background: url('../images/button-icons/controller-pause.png') no-repeat;
+}
+.button.controller-play,
+button.controller-play{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-play span,
+button.controller-play span{
+   background: url('../images/button-icons/controller-play.png') no-repeat;
+}
+.button.controller-previous,
+button.controller-previous{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-previous span,
+button.controller-previous span{
+   background: url('../images/button-icons/controller-previous.png') no-repeat;
+}
+.button.controller-record,
+button.controller-record{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-record span,
+button.controller-record span{
+   background: url('../images/button-icons/controller-record.png') no-repeat;
+}
+.button.controller-rewind,
+button.controller-rewind{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-rewind span,
+button.controller-rewind span{
+   background: url('../images/button-icons/controller-rewind.png') no-repeat;
+}
+.button.controller-stop,
+button.controller-stop{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.controller-stop span,
+button.controller-stop span{
+   background: url('../images/button-icons/controller-stop.png') no-repeat;
+}
+.button.cool,
+button.cool{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.cool span,
+button.cool span{
+   background: url('../images/button-icons/cool.png') no-repeat;
+}
+.button.copy,
+button.copy{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.copy span,
+button.copy span{
+   background: url('../images/button-icons/copy.png') no-repeat;
+}
+.button.credit-card,
+button.credit-card{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.credit-card span,
+button.credit-card span{
+   background: url('../images/button-icons/credit-card.png') no-repeat;
+}
+.button.cursor,
+button.cursor{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.cursor span,
+button.cursor span{
+   background: url('../images/button-icons/cursor.png') no-repeat;
+}
+.button.cut,
+button.cut{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.cut span,
+button.cut span{
+   background: url('../images/button-icons/cut.png') no-repeat;
+}
+.button.dashboard,
+button.dashboard{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.dashboard span,
+button.dashboard span{
+   background: url('../images/button-icons/dashboard.png') no-repeat;
+}
+.button.database,
+button.database{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database span,
+button.database span{
+   background: url('../images/button-icons/database.png') no-repeat;
+}
+.button.database-add,
+button.database-add{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-add span,
+button.database-add span{
+   background: url('../images/button-icons/database-add.png') no-repeat;
+}
+.button.database-check,
+button.database-check{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-check span,
+button.database-check span{
+   background: url('../images/button-icons/database-check.png') no-repeat;
+}
+.button.database-delete,
+button.database-delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-delete span,
+button.database-delete span{
+   background: url('../images/button-icons/database-delete.png') no-repeat;
+}
+.button.database-edit,
+button.database-edit{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-edit span,
+button.database-edit span{
+   background: url('../images/button-icons/database-edit.png') no-repeat;
+}
+.button.database-error,
+button.database-error{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-error span,
+button.database-error span{
+   background: url('../images/button-icons/database-error.png') no-repeat;
+}
+.button.database-export,
+button.database-export{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-export span,
+button.database-export span{
+   background: url('../images/button-icons/database-export.png') no-repeat;
+}
+.button.database-import,
+button.database-import{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-import span,
+button.database-import span{
+   background: url('../images/button-icons/database-import.png') no-repeat;
+}
+.button.database-lock,
+button.database-lock{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-lock span,
+button.database-lock span{
+   background: url('../images/button-icons/database-lock.png') no-repeat;
+}
+.button.database-na,
+button.database-na{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-na span,
+button.database-na span{
+   background: url('../images/button-icons/database-na.png') no-repeat;
+}
+.button.database-reload,
+button.database-reload{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-reload span,
+button.database-reload span{
+   background: url('../images/button-icons/database-reload.png') no-repeat;
+}
+.button.database-save,
+button.database-save{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-save span,
+button.database-save span{
+   background: url('../images/button-icons/database-save.png') no-repeat;
+}
+.button.database-search,
+button.database-search{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-search span,
+button.database-search span{
+   background: url('../images/button-icons/database-search.png') no-repeat;
+}
+.button.database-start,
+button.database-start{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-start span,
+button.database-start span{
+   background: url('../images/button-icons/database-start.png') no-repeat;
+}
+.button.database-stop,
+button.database-stop{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-stop span,
+button.database-stop span{
+   background: url('../images/button-icons/database-stop.png') no-repeat;
+}
+.button.database-user,
+button.database-user{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.database-user span,
+button.database-user span{
+   background: url('../images/button-icons/database-user.png') no-repeat;
+}
+.button.delete,
+button.delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.delete span,
+button.delete span{
+   background: url('../images/button-icons/delete.png') no-repeat;
+}
+.button.delivery-truck,
+button.delivery-truck{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.delivery-truck span,
+button.delivery-truck span{
+   background: url('../images/button-icons/delivery-truck.png') no-repeat;
+}
+.button.disconnect,
+button.disconnect{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.disconnect span,
+button.disconnect span{
+   background: url('../images/button-icons/disconnect.png') no-repeat;
+}
+.button.discussion,
+button.discussion{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.discussion span,
+button.discussion span{
+   background: url('../images/button-icons/discussion.png') no-repeat;
+}
+.button.download,
+button.download{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.download span,
+button.download span{
+   background: url('../images/button-icons/download.png') no-repeat;
+}
+.button.earth,
+button.earth{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.earth span,
+button.earth span{
+   background: url('../images/button-icons/earth.png') no-repeat;
+}
+.button.edit-disable,
+button.edit-disable{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.edit-disable span,
+button.edit-disable span{
+   background: url('../images/button-icons/edit-disable.png') no-repeat;
+}
+.button.email,
+button.email{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.email span,
+button.email span{
+   background: url('../images/button-icons/email.png') no-repeat;
+}
+.button.email-delete,
+button.email-delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.email-delete span,
+button.email-delete span{
+   background: url('../images/button-icons/email-delete.png') no-repeat;
+}
+.button.email-forward,
+button.email-forward{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.email-forward span,
+button.email-forward span{
+   background: url('../images/button-icons/email-forward.png') no-repeat;
+}
+.button.email-new,
+button.email-new{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.email-new span,
+button.email-new span{
+   background: url('../images/button-icons/email-new.png') no-repeat;
+}
+.button.email-open,
+button.email-open{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.email-open span,
+button.email-open span{
+   background: url('../images/button-icons/email-open.png') no-repeat;
+}
+.button.email-reply,
+button.email-reply{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.email-reply span,
+button.email-reply span{
+   background: url('../images/button-icons/email-reply.png') no-repeat;
+}
+.button.email-write,
+button.email-write{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.email-write span,
+button.email-write span{
+   background: url('../images/button-icons/email-write.png') no-repeat;
+}
+.button.employee-id,
+button.employee-id{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.employee-id span,
+button.employee-id span{
+   background: url('../images/button-icons/employee-id.png') no-repeat;
+}
+.button.exchange,
+button.exchange{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.exchange span,
+button.exchange span{
+   background: url('../images/button-icons/exchange.png') no-repeat;
+}
+.button.expand,
+button.expand{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.expand span,
+button.expand span{
+   background: url('../images/button-icons/expand.png') no-repeat;
+}
+.button.eye,
+button.eye{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.eye span,
+button.eye span{
+   background: url('../images/button-icons/eye.png') no-repeat;
+}
+.button.eyedropper,
+button.eyedropper{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.eyedropper span,
+button.eyedropper span{
+   background: url('../images/button-icons/eyedropper.png') no-repeat;
+}
+.button.fan,
+button.fan{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.fan span,
+button.fan span{
+   background: url('../images/button-icons/fan.png') no-repeat;
+}
+.button.favorite,
+button.favorite{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.favorite span,
+button.favorite span{
+   background: url('../images/button-icons/favorite.png') no-repeat;
+}
+.button.favorite-add,
+button.favorite-add{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.favorite-add span,
+button.favorite-add span{
+   background: url('../images/button-icons/favorite-add.png') no-repeat;
+}
+.button.favorite-delete,
+button.favorite-delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.favorite-delete span,
+button.favorite-delete span{
+   background: url('../images/button-icons/favorite-delete.png') no-repeat;
+}
+.button.favorite-edit,
+button.favorite-edit{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.favorite-edit span,
+button.favorite-edit span{
+   background: url('../images/button-icons/favorite-edit.png') no-repeat;
+}
+.button.fever-chart,
+button.fever-chart{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.fever-chart span,
+button.fever-chart span{
+   background: url('../images/button-icons/fever-chart.png') no-repeat;
+}
+.button.filter,
+button.filter{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.filter span,
+button.filter span{
+   background: url('../images/button-icons/filter.png') no-repeat;
+}
+.button.financial,
+button.financial{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.financial span,
+button.financial span{
+   background: url('../images/button-icons/financial.png') no-repeat;
+}
+.button.first-aid-box,
+button.first-aid-box{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.first-aid-box span,
+button.first-aid-box span{
+   background: url('../images/button-icons/first-aid-box.png') no-repeat;
+}
+.button.flag,
+button.flag{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.flag span,
+button.flag span{
+   background: url('../images/button-icons/flag.png') no-repeat;
+}
+.button.flash,
+button.flash{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.flash span,
+button.flash span{
+   background: url('../images/button-icons/flash.png') no-repeat;
+}
+.button.folder,
+button.folder{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.folder span,
+button.folder span{
+   background: url('../images/button-icons/folder.png') no-repeat;
+}
+.button.folder-add,
+button.folder-add{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.folder-add span,
+button.folder-add span{
+   background: url('../images/button-icons/folder-add.png') no-repeat;
+}
+.button.folder-delete,
+button.folder-delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.folder-delete span,
+button.folder-delete span{
+   background: url('../images/button-icons/folder-delete.png') no-repeat;
+}
+.button.folder-edit,
+button.folder-edit{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.folder-edit span,
+button.folder-edit span{
+   background: url('../images/button-icons/folder-edit.png') no-repeat;
+}
+.button.folder-search,
+button.folder-search{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.folder-search span,
+button.folder-search span{
+   background: url('../images/button-icons/folder-search.png') no-repeat;
+}
+.button.font-decrease,
+button.font-decrease{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.font-decrease span,
+button.font-decrease span{
+   background: url('../images/button-icons/font-decrease.png') no-repeat;
+}
+.button.font-increase,
+button.font-increase{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.font-increase span,
+button.font-increase span{
+   background: url('../images/button-icons/font-increase.png') no-repeat;
+}
+.button.fullscreen,
+button.fullscreen{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.fullscreen span,
+button.fullscreen span{
+   background: url('../images/button-icons/fullscreen.png') no-repeat;
+}
+.button.fullscreen-enter,
+button.fullscreen-enter{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.fullscreen-enter span,
+button.fullscreen-enter span{
+   background: url('../images/button-icons/fullscreen-enter.png') no-repeat;
+}
+.button.fullscreen-exit,
+button.fullscreen-exit{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.fullscreen-exit span,
+button.fullscreen-exit span{
+   background: url('../images/button-icons/fullscreen-exit.png') no-repeat;
+}
+.button.game-controller,
+button.game-controller{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.game-controller span,
+button.game-controller span{
+   background: url('../images/button-icons/game-controller.png') no-repeat;
+}
+.button.gift,
+button.gift{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.gift span,
+button.gift span{
+   background: url('../images/button-icons/gift.png') no-repeat;
+}
+.button.gift-card,
+button.gift-card{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.gift-card span,
+button.gift-card span{
+   background: url('../images/button-icons/gift-card.png') no-repeat;
+}
+.button.go-to-bottom,
+button.go-to-bottom{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.go-to-bottom span,
+button.go-to-bottom span{
+   background: url('../images/button-icons/go-to-bottom.png') no-repeat;
+}
+.button.go-to-top,
+button.go-to-top{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.go-to-top span,
+button.go-to-top span{
+   background: url('../images/button-icons/go-to-top.png') no-repeat;
+}
+.button.gym,
+button.gym{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.gym span,
+button.gym span{
+   background: url('../images/button-icons/gym.png') no-repeat;
+}
+.button.hammer,
+button.hammer{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.hammer span,
+button.hammer span{
+   background: url('../images/button-icons/hammer.png') no-repeat;
+}
+.button.hand,
+button.hand{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.hand span,
+button.hand span{
+   background: url('../images/button-icons/hand.png') no-repeat;
+}
+.button.hand-pointer,
+button.hand-pointer{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.hand-pointer span,
+button.hand-pointer span{
+   background: url('../images/button-icons/hand-pointer.png') no-repeat;
+}
+.button.headphone,
+button.headphone{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.headphone span,
+button.headphone span{
+   background: url('../images/button-icons/headphone.png') no-repeat;
+}
+.button.help,
+button.help{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.help span,
+button.help span{
+   background: url('../images/button-icons/help.png') no-repeat;
+}
+.button.highlighter,
+button.highlighter{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.highlighter span,
+button.highlighter span{
+   background: url('../images/button-icons/highlighter.png') no-repeat;
+}
+.button.history,
+button.history{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.history span,
+button.history span{
+   background: url('../images/button-icons/history.png') no-repeat;
+}
+.button.home,
+button.home{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.home span,
+button.home span{
+   background: url('../images/button-icons/home.png') no-repeat;
+}
+.button.hot,
+button.hot{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.hot span,
+button.hot span{
+   background: url('../images/button-icons/hot.png') no-repeat;
+}
+.button.hourglass,
+button.hourglass{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.hourglass span,
+button.hourglass span{
+   background: url('../images/button-icons/hourglass.png') no-repeat;
+}
+.button.infinite,
+button.infinite{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.infinite span,
+button.infinite span{
+   background: url('../images/button-icons/infinite.png') no-repeat;
+}
+.button.info,
+button.info{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.info span,
+button.info span{
+   background: url('../images/button-icons/info.png') no-repeat;
+}
+.button.iphone,
+button.iphone{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.iphone span,
+button.iphone span{
+   background: url('../images/button-icons/iphone.png') no-repeat;
+}
+.button.ipod,
+button.ipod{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.ipod span,
+button.ipod span{
+   background: url('../images/button-icons/ipod.png') no-repeat;
+}
+.button.key,
+button.key{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.key span,
+button.key span{
+   background: url('../images/button-icons/key.png') no-repeat;
+}
+.button.lab,
+button.lab{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.lab span,
+button.lab span{
+   background: url('../images/button-icons/lab.png') no-repeat;
+}
+.button.laptop,
+button.laptop{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.laptop span,
+button.laptop span{
+   background: url('../images/button-icons/laptop.png') no-repeat;
+}
+.button.light-bulb,
+button.light-bulb{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.light-bulb span,
+button.light-bulb span{
+   background: url('../images/button-icons/light-bulb.png') no-repeat;
+}
+.button.link,
+button.link{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.link span,
+button.link span{
+   background: url('../images/button-icons/link.png') no-repeat;
+}
+.button.location,
+button.location{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.location span,
+button.location span{
+   background: url('../images/button-icons/location.png') no-repeat;
+}
+.button.location-pin,
+button.location-pin{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.location-pin span,
+button.location-pin span{
+   background: url('../images/button-icons/location-pin.png') no-repeat;
+}
+.button.lock,
+button.lock{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.lock span,
+button.lock span{
+   background: url('../images/button-icons/lock.png') no-repeat;
+}
+.button.login,
+button.login{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.login span,
+button.login span{
+   background: url('../images/button-icons/login.png') no-repeat;
+}
+.button.logout,
+button.logout{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.logout span,
+button.logout span{
+   background: url('../images/button-icons/logout.png') no-repeat;
+}
+.button.luggage,
+button.luggage{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.luggage span,
+button.luggage span{
+   background: url('../images/button-icons/luggage.png') no-repeat;
+}
+.button.magic-wand,
+button.magic-wand{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.magic-wand span,
+button.magic-wand span{
+   background: url('../images/button-icons/magic-wand.png') no-repeat;
+}
+.button.mailbox,
+button.mailbox{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.mailbox span,
+button.mailbox span{
+   background: url('../images/button-icons/mailbox.png') no-repeat;
+}
+.button.mailbox-in,
+button.mailbox-in{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.mailbox-in span,
+button.mailbox-in span{
+   background: url('../images/button-icons/mailbox-in.png') no-repeat;
+}
+.button.mailbox-out,
+button.mailbox-out{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.mailbox-out span,
+button.mailbox-out span{
+   background: url('../images/button-icons/mailbox-out.png') no-repeat;
+}
+.button.martini-glass,
+button.martini-glass{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.martini-glass span,
+button.martini-glass span{
+   background: url('../images/button-icons/martini-glass.png') no-repeat;
+}
+.button.merge,
+button.merge{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.merge span,
+button.merge span{
+   background: url('../images/button-icons/merge.png') no-repeat;
+}
+.button.microphone,
+button.microphone{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.microphone span,
+button.microphone span{
+   background: url('../images/button-icons/microphone.png') no-repeat;
+}
+.button.minus,
+button.minus{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.minus span,
+button.minus span{
+   background: url('../images/button-icons/minus.png') no-repeat;
+}
+.button.monitor,
+button.monitor{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.monitor span,
+button.monitor span{
+   background: url('../images/button-icons/monitor.png') no-repeat;
+}
+.button.mouse,
+button.mouse{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.mouse span,
+button.mouse span{
+   background: url('../images/button-icons/mouse.png') no-repeat;
+}
+.button.move,
+button.move{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.move span,
+button.move span{
+   background: url('../images/button-icons/move.png') no-repeat;
+}
+.button.museum,
+button.museum{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.museum span,
+button.museum span{
+   background: url('../images/button-icons/museum.png') no-repeat;
+}
+.button.music,
+button.music{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.music span,
+button.music span{
+   background: url('../images/button-icons/music.png') no-repeat;
+}
+.button.network,
+button.network{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.network span,
+button.network span{
+   background: url('../images/button-icons/network.png') no-repeat;
+}
+.button.newspaper,
+button.newspaper{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.newspaper span,
+button.newspaper span{
+   background: url('../images/button-icons/newspaper.png') no-repeat;
+}
+.button.notepad,
+button.notepad{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.notepad span,
+button.notepad span{
+   background: url('../images/button-icons/notepad.png') no-repeat;
+}
+.button.office-chair,
+button.office-chair{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.office-chair span,
+button.office-chair span{
+   background: url('../images/button-icons/office-chair.png') no-repeat;
+}
+.button.orbit,
+button.orbit{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.orbit span,
+button.orbit span{
+   background: url('../images/button-icons/orbit.png') no-repeat;
+}
+.button.package-box,
+button.package-box{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.package-box span,
+button.package-box span{
+   background: url('../images/button-icons/package-box.png') no-repeat;
+}
+.button.page,
+button.page{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page span,
+button.page span{
+   background: url('../images/button-icons/page.png') no-repeat;
+}
+.button.page-add,
+button.page-add{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-add span,
+button.page-add span{
+   background: url('../images/button-icons/page-add.png') no-repeat;
+}
+.button.page-check,
+button.page-check{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-check span,
+button.page-check span{
+   background: url('../images/button-icons/page-check.png') no-repeat;
+}
+.button.page-delete,
+button.page-delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-delete span,
+button.page-delete span{
+   background: url('../images/button-icons/page-delete.png') no-repeat;
+}
+.button.page-edit,
+button.page-edit{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-edit span,
+button.page-edit span{
+   background: url('../images/button-icons/page-edit.png') no-repeat;
+}
+.button.page-error,
+button.page-error{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-error span,
+button.page-error span{
+   background: url('../images/button-icons/page-error.png') no-repeat;
+}
+.button.page-lock,
+button.page-lock{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-lock span,
+button.page-lock span{
+   background: url('../images/button-icons/page-lock.png') no-repeat;
+}
+.button.page-new,
+button.page-new{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-new span,
+button.page-new span{
+   background: url('../images/button-icons/page-new.png') no-repeat;
+}
+.button.page-not-found,
+button.page-not-found{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-not-found span,
+button.page-not-found span{
+   background: url('../images/button-icons/page-not-found.png') no-repeat;
+}
+.button.page-save,
+button.page-save{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-save span,
+button.page-save span{
+   background: url('../images/button-icons/page-save.png') no-repeat;
+}
+.button.page-search,
+button.page-search{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-search span,
+button.page-search span{
+   background: url('../images/button-icons/page-search.png') no-repeat;
+}
+.button.page-user,
+button.page-user{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.page-user span,
+button.page-user span{
+   background: url('../images/button-icons/page-user.png') no-repeat;
+}
+.button.paint-brush,
+button.paint-brush{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.paint-brush span,
+button.paint-brush span{
+   background: url('../images/button-icons/paint-brush.png') no-repeat;
+}
+.button.paper-clip,
+button.paper-clip{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.paper-clip span,
+button.paper-clip span{
+   background: url('../images/button-icons/paper-clip.png') no-repeat;
+}
+.button.paste,
+button.paste{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.paste span,
+button.paste span{
+   background: url('../images/button-icons/paste.png') no-repeat;
+}
+.button.pen,
+button.pen{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.pen span,
+button.pen span{
+   background: url('../images/button-icons/pen.png') no-repeat;
+}
+.button.pencil,
+button.pencil{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.pencil span,
+button.pencil span{
+   background: url('../images/button-icons/pencil.png') no-repeat;
+}
+.button.phone,
+button.phone{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.phone span,
+button.phone span{
+   background: url('../images/button-icons/phone.png') no-repeat;
+}
+.button.phone-classic,
+button.phone-classic{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.phone-classic span,
+button.phone-classic span{
+   background: url('../images/button-icons/phone-classic.png') no-repeat;
+}
+.button.phone-mobile,
+button.phone-mobile{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.phone-mobile span,
+button.phone-mobile span{
+   background: url('../images/button-icons/phone-mobile.png') no-repeat;
+}
+.button.picture,
+button.picture{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.picture span,
+button.picture span{
+   background: url('../images/button-icons/picture.png') no-repeat;
+}
+.button.pie-chart,
+button.pie-chart{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.pie-chart span,
+button.pie-chart span{
+   background: url('../images/button-icons/pie-chart.png') no-repeat;
+}
+.button.pin,
+button.pin{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.pin span,
+button.pin span{
+   background: url('../images/button-icons/pin.png') no-repeat;
+}
+.button.plugin,
+button.plugin{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.plugin span,
+button.plugin span{
+   background: url('../images/button-icons/plugin.png') no-repeat;
+}
+.button.podcast,
+button.podcast{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.podcast span,
+button.podcast span{
+   background: url('../images/button-icons/podcast.png') no-repeat;
+}
+.button.power,
+button.power{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.power span,
+button.power span{
+   background: url('../images/button-icons/power.png') no-repeat;
+}
+.button.presentation,
+button.presentation{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.presentation span,
+button.presentation span{
+   background: url('../images/button-icons/presentation.png') no-repeat;
+}
+.button.print,
+button.print{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.print span,
+button.print span{
+   background: url('../images/button-icons/print.png') no-repeat;
+}
+.button.puzzle,
+button.puzzle{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.puzzle span,
+button.puzzle span{
+   background: url('../images/button-icons/puzzle.png') no-repeat;
+}
+.button.quote,
+button.quote{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.quote span,
+button.quote span{
+   background: url('../images/button-icons/quote.png') no-repeat;
+}
+.button.radio,
+button.radio{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.radio span,
+button.radio span{
+   background: url('../images/button-icons/radio.png') no-repeat;
+}
+.button.recycle,
+button.recycle{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.recycle span,
+button.recycle span{
+   background: url('../images/button-icons/recycle.png') no-repeat;
+}
+.button.redo,
+button.redo{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.redo span,
+button.redo span{
+   background: url('../images/button-icons/redo.png') no-repeat;
+}
+.button.reload,
+button.reload{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.reload span,
+button.reload span{
+   background: url('../images/button-icons/reload.png') no-repeat;
+}
+.button.remote-control,
+button.remote-control{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.remote-control span,
+button.remote-control span{
+   background: url('../images/button-icons/remote-control.png') no-repeat;
+}
+.button.repeat,
+button.repeat{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.repeat span,
+button.repeat span{
+   background: url('../images/button-icons/replay.png') no-repeat;
+}
+.button.replay,
+button.replay{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.replay span,
+button.replay span{
+   background: url('../images/button-icons/replay.png') no-repeat;
+}
+.button.restrict,
+button.restrict{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.restrict span,
+button.restrict span{
+   background: url('../images/button-icons/restrict.png') no-repeat;
+}
+.button.rocket,
+button.rocket{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.rocket span,
+button.rocket span{
+   background: url('../images/button-icons/rocket.png') no-repeat;
+}
+.button.rss,
+button.rss{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.rss span,
+button.rss span{
+   background: url('../images/button-icons/rss.png') no-repeat;
+}
+.button.satellite,
+button.satellite{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.satellite span,
+button.satellite span{
+   background: url('../images/button-icons/satellite.png') no-repeat;
+}
+.button.save,
+button.save{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.save span,
+button.save span{
+   background: url('../images/button-icons/save.png') no-repeat;
+}
+.button.script,
+button.script{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.script span,
+button.script span{
+   background: url('../images/button-icons/script.png') no-repeat;
+}
+.button.search,
+button.search{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.search span,
+button.search span{
+   background: url('../images/button-icons/search.png') no-repeat;
+}
+.button.security,
+button.security{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.security span,
+button.security span{
+   background: url('../images/button-icons/security.png') no-repeat;
+}
+.button.setting,
+button.setting{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.setting span,
+button.setting span{
+   background: url('../images/button-icons/setting.png') no-repeat;
+}
+.button.share,
+button.share{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.share span,
+button.share span{
+   background: url('../images/button-icons/share.png') no-repeat;
+}
+.button.shopping-bag,
+button.shopping-bag{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.shopping-bag span,
+button.shopping-bag span{
+   background: url('../images/button-icons/shopping-bag.png') no-repeat;
+}
+.button.shopping-basket,
+button.shopping-basket{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.shopping-basket span,
+button.shopping-basket span{
+   background: url('../images/button-icons/shopping-basket.png') no-repeat;
+}
+.button.shopping-cart,
+button.shopping-cart{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.shopping-cart span,
+button.shopping-cart span{
+   background: url('../images/button-icons/shopping-cart.png') no-repeat;
+}
+.button.shovel,
+button.shovel{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.shovel span,
+button.shovel span{
+   background: url('../images/button-icons/shovel.png') no-repeat;
+}
+.button.shuffle,
+button.shuffle{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.shuffle span,
+button.shuffle span{
+   background: url('../images/button-icons/shuffle.png') no-repeat;
+}
+.button.shutter,
+button.shutter{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.shutter span,
+button.shutter span{
+   background: url('../images/button-icons/shutter.png') no-repeat;
+}
+.button.sign,
+button.sign{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.sign span,
+button.sign span{
+   background: url('../images/button-icons/sign.png') no-repeat;
+}
+.button.sitemap,
+button.sitemap{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.sitemap span,
+button.sitemap span{
+   background: url('../images/button-icons/sitemap.png') no-repeat;
+}
+.button.slice,
+button.slice{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.slice span,
+button.slice span{
+   background: url('../images/button-icons/slice.png') no-repeat;
+}
+.button.sofa-chair,
+button.sofa-chair{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.sofa-chair span,
+button.sofa-chair span{
+   background: url('../images/button-icons/sofa-chair.png') no-repeat;
+}
+.button.split,
+button.split{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.split span,
+button.split span{
+   background: url('../images/button-icons/split.png') no-repeat;
+}
+.button.sport,
+button.sport{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.sport span,
+button.sport span{
+   background: url('../images/button-icons/sport.png') no-repeat;
+}
+.button.sprayer,
+button.sprayer{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.sprayer span,
+button.sprayer span{
+   background: url('../images/button-icons/sprayer.png') no-repeat;
+}
+.button.star,
+button.star{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.star span,
+button.star span{
+   background: url('../images/button-icons/star.png') no-repeat;
+}
+.button.stock-chart,
+button.stock-chart{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.stock-chart span,
+button.stock-chart span{
+   background: url('../images/button-icons/stock-chart.png') no-repeat;
+}
+.button.stop,
+button.stop{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.stop span,
+button.stop span{
+   background: url('../images/button-icons/stop.png') no-repeat;
+}
+.button.zoom-in,
+button.zoom-in{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.zoom-in span,
+button.zoom-in span{
+   background: url('../images/button-icons/zoom-in.png') no-repeat;
+}
+.button.zoom-out,
+button.zoom-out{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.zoom-out span,
+button.zoom-out span{
+   background: url('../images/button-icons/zoom-out.png') no-repeat;
+}
+.button.tag,
+button.tag{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.tag span,
+button.tag span{
+   background: url('../images/button-icons/tag.png') no-repeat;
+}
+.button.tag-cloud,
+button.tag-cloud{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.tag-cloud span,
+button.tag-cloud span{
+   background: url('../images/button-icons/tag-cloud.png') no-repeat;
+}
+.button.thumb-down,
+button.thumb-down{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.thumb-down span,
+button.thumb-down span{
+   background: url('../images/button-icons/thumb-down.png') no-repeat;
+}
+.button.thumb-up,
+button.thumb-up{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.thumb-up span,
+button.thumb-up span{
+   background: url('../images/button-icons/thumb-up.png') no-repeat;
+}
+.button.ticket,
+button.ticket{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.ticket span,
+button.ticket span{
+   background: url('../images/button-icons/ticket.png') no-repeat;
+}
+.button.timer,
+button.timer{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.timer span,
+button.timer span{
+   background: url('../images/button-icons/timer.png') no-repeat;
+}
+.button.tool,
+button.tool{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.tool span,
+button.tool span{
+   background: url('../images/button-icons/tool.png') no-repeat;
+}
+.button.tool-box,
+button.tool-box{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.tool-box span,
+button.tool-box span{
+   background: url('../images/button-icons/tool-box.png') no-repeat;
+}
+.button.train,
+button.train{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.train span,
+button.train span{
+   background: url('../images/button-icons/train.png') no-repeat;
+}
+.button.trash,
+button.trash{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.trash span,
+button.trash span{
+   background: url('../images/button-icons/trash.png') no-repeat;
+}
+.button.trophy,
+button.trophy{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.trophy span,
+button.trophy span{
+   background: url('../images/button-icons/trophy.png') no-repeat;
+}
+.button.tv,
+button.tv{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.tv span,
+button.tv span{
+   background: url('../images/button-icons/tv.png') no-repeat;
+}
+.button.umbella,
+button.umbella{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.umbella span,
+button.umbella span{
+   background: url('../images/button-icons/umbella.png') no-repeat;
+}
+.button.undo,
+button.undo{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.undo span,
+button.undo span{
+   background: url('../images/button-icons/undo.png') no-repeat;
+}
+.button.unlock,
+button.unlock{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.unlock span,
+button.unlock span{
+   background: url('../images/button-icons/unlock.png') no-repeat;
+}
+.button.upload,
+button.upload{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.upload span,
+button.upload span{
+   background: url('../images/button-icons/upload.png') no-repeat;
+}
+.button.usb,
+button.usb{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.usb span,
+button.usb span{
+   background: url('../images/button-icons/usb.png') no-repeat;
+}
+.button.user,
+button.user{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.user span,
+button.user span{
+   background: url('../images/button-icons/user.png') no-repeat;
+}
+.button.user-add,
+button.user-add{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.user-add span,
+button.user-add span{
+   background: url('../images/button-icons/user-add.png') no-repeat;
+}
+.button.user-comment,
+button.user-comment{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.user-comment span,
+button.user-comment span{
+   background: url('../images/button-icons/user-comment.png') no-repeat;
+}
+.button.user-delete,
+button.user-delete{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.user-delete span,
+button.user-delete span{
+   background: url('../images/button-icons/user-delete.png') no-repeat;
+}
+.button.user-disable,
+button.user-disable{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.user-disable span,
+button.user-disable span{
+   background: url('../images/button-icons/user-disable.png') no-repeat;
+}
+.button.user-edit,
+button.user-edit{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.user-edit span,
+button.user-edit span{
+   background: url('../images/button-icons/user-edit.png') no-repeat;
+}
+.button.user-group,
+button.user-group{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.user-group span,
+button.user-group span{
+   background: url('../images/button-icons/user-group.png') no-repeat;
+}
+.button.walk,
+button.walk{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.walk span,
+button.walk span{
+   background: url('../images/button-icons/walk.png') no-repeat;
+}
+.button.wallet,
+button.wallet{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.wallet span,
+button.wallet span{
+   background: url('../images/button-icons/wallet.png') no-repeat;
+}
+.button.weather,
+button.weather{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.weather span,
+button.weather span{
+   background: url('../images/button-icons/weather.png') no-repeat;
+}
+.button.web,
+button.web{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.web span,
+button.web span{
+   background: url('../images/button-icons/web.png') no-repeat;
+}
+.button.webcam,
+button.webcam{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.webcam span,
+button.webcam span{
+   background: url('../images/button-icons/webcam.png') no-repeat;
+}
+.button.video-camera,
+button.video-camera{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.video-camera span,
+button.video-camera span{
+   background: url('../images/button-icons/video-camera.png') no-repeat;
+}
+.button.video-clapper,
+button.video-clapper{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.video-clapper span,
+button.video-clapper span{
+   background: url('../images/button-icons/video-clapper.png') no-repeat;
+}
+.button.video-film,
+button.video-film{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.video-film span,
+button.video-film span{
+   background: url('../images/button-icons/video-film.png') no-repeat;
+}
+.button.video-reel,
+button.video-reel{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.video-reel span,
+button.video-reel span{
+   background: url('../images/button-icons/video-reel.png') no-repeat;
+}
+.button.wine-glass,
+button.wine-glass{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.wine-glass span,
+button.wine-glass span{
+   background: url('../images/button-icons/wine-glass.png') no-repeat;
+}
+.button.wireless,
+button.wireless{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.wireless span,
+button.wireless span{
+   background: url('../images/button-icons/wireless.png') no-repeat;
+}
+.button.voice-command,
+button.voice-command{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.voice-command span,
+button.voice-command span{
+   background: url('../images/button-icons/voice-command.png') no-repeat;
+}
+.button.voice-command-disable,
+button.voice-command-disable{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.voice-command-disable span,
+button.voice-command-disable span{
+   background: url('../images/button-icons/voice-command-disable.png') no-repeat;
+}
+.button.volume-high,
+button.volume-high{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.volume-high span,
+button.volume-high span{
+   background: url('../images/button-icons/volume-high.png') no-repeat;
+}
+.button.volume-low,
+button.volume-low{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.volume-low span,
+button.volume-low span{
+   background: url('../images/button-icons/volume-low.png') no-repeat;
+}
+.button.volume-mute,
+button.volume-mute{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.volume-mute span,
+button.volume-mute span{
+   background: url('../images/button-icons/volume-mute.png') no-repeat;
+}
+.button.write-note,
+button.write-note{
+   padding: 5px 20px 5px 10px;
+   line-height: 32px;
+}
+.button.write-note span,
+button.write-note span{
+   background: url('../images/button-icons/write-note.png') no-repeat;
+}

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>About</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.4.2.js" ></script>
+<script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/CabinSketch_700.font.js"></script>
+<script type="text/javascript" src="js/EB_Garamond_400.font.js"></script>
+<!-- [if lt IE 9]>
+<script type="text/javascript" src="js/html5.js"></script>
+<style type="text/css">
+.bg {behavior:url(js/PIE.htc)}
+</style>
+<![endif]-->
+<!-- [if lt IE 7]>
+<div style='clear:both;text-align:center;position:relative'>
+	<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" alt="" /></a>
+</div>
+<![endif]-->
+</head>
+<body id="page1">
+<div class="main">
+<!-- header -->
+	<header>
+		<div class="wrapper">
+			<nav>
+				<ul id="menu">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="#" onclick="home();">Login</a></li>
+					<li><a href="#" onclick="unhided2();">Register</a></li>
+					<li><a href="#" onclick="unhided3();">FAQ</a></li>
+					
+				</ul>
+			</nav>
+		</div>
+		<h1><a href="index.html" id="logo">Brainstormer 2013</a></h1>
+	</header><div class="ic"></div>
+<!-- / header -->
+<!-- content -->
+	<section id="content">
+		<div class="wrapper" style="height:850px">
+		<article class="col1">
+			<div class="pad_left1 pad_bot1">
+			 <h2>Login</h2>
+				  <br/><br/>
+				  <form method="post" action="log-exec.php" name="login">
+				  <b>Team Name:</b></br>
+				  <input type="text" size="30" name="gname"/><br/><br/>
+				  <b>Password:</b></br>
+				  <input type="password" size="30" name="passwd"/></br> 
+				  </br>
+				   <INPUT TYPE="image" SRC="images/login.png"WIDTH="67"  HEIGHT="26" BORDER="0" ALT="SUBMIT!"/> 
+				   &nbsp  &nbsp    <a href="forgot.php">Forgot password ?</a> 
+				   
+					 </form>
+					 </br>
+					       Not registered your Team yet ?
+						   <a href="register.php">Click here</a>    to register your team.
+            
+			
+
+			</div>	
+			</article>
+			
+			<article class="col2">
+			    <br><br><br><br><br><br>
+				<a href="login.html" target="_blank"><h4>Login/Register</h4></a>
+				<h4>Updates</h4>
+				<div class="ul_works"> 
+                      <Marquee direction="up" behaviour="scroll" scrollamount="3" onMouseOver="this.stop()" onMouseOut="this.start()">
+                          <a href="#" align="left" color="white">registration has begun pls register quickly and the last date of registration isljfjgfdg;lkdsjfg;lkjdsfl;kgj;dlkfjgl;kdjfg;lkjdf;lkgj;ldkfjg;lkdfjg;lkjdfglkjdf;jglkdfg
+						  </a>
+                      </Marquee> 
+                    </div> 
+				<h4>Sponsors</h4>
+				
+    		</article>
+			</div>
+	</section>
+	
+<!-- / content -->
+<!-- footer -->
+	<footer>
+		<div class="wrapper">
+			<!--<article class="col2">
+				<h5>Why Us</h5>
+				<ul class="list1">
+					<li><a href="#">Sedut perspiciatis</a></li>
+					<li><a href="#">Unde omnis iste</a></li>
+					<li><a href="#">Natus error sit </a></li>
+					<li><a href="#">Volupttem accus</a></li>
+					<li><a href="#">Ntium doloremque </a></li>
+				</ul>
+			</article>-->
+			<article class="col pad_left2">
+				<h5>Links</h5>
+				<ul class="list1">
+					<li><a href="#">NSEC</a></li>
+					<li><a href="#">Phoenix</a></li>
+					<li><a href="#">Avenir</a></li>
+					
+				</ul>
+			</article>
+			<article class="col pad_left2">
+				<h5>Follow Us</h5>
+				<ul class="icons">
+					<li><a href="#"><img src="images/icon1.jpg" alt="">Facebook</a></li>
+					<li><a href="#"><img src="images/icon3.jpg" alt="">Twitter</a></li>
+					<li><a href="#"><img src="images/icon5.jpg" alt="">RSS Feed</a></li>
+				</ul>
+			</article>
+					</div>
+		<p size = " px" style="color:white;" align="justify" >Copyright &copy; 2013 Phoenix. Designed and Developed by Indranil Maji, Abhinandan Bhattacharjee and Anish Choudhary</p>
+		<!--<article class="privacy">-->
+	</footer>
+<!-- / footer -->
+</div>
+<script type="text/javascript">Cufon.now();</script>
+<script type="text/javascript">
+	$(window).load(function() {
+	$('#nivo_slider').nivoSlider({
+		effect:'fold', //Specify sets like: 'fold,fade,sliceDown, sliceDownLeft, sliceUp, sliceUpLeft, sliceUpDown, sliceUpDownLeft'
+		slices:7,
+		animSpeed:500,
+		pauseTime:6000,
+		startSlide:0, //Set starting Slide (0 index)
+		directionNav:true, //Next & Prev
+		directionNavHide:false, //Only show on hover
+		controlNav:true, //1,2,3...
+		controlNavThumbs:false, //Use thumbnails for Control Nav
+		controlNavThumbsFromRel:false, //Use image rel for thumbs
+		controlNavThumbsSearch: '.jpg', //Replace this with...
+		controlNavThumbsReplace: '_thumb.jpg', //...this in thumb Image src
+		keyboardNav:true, //Use left & right arrows
+		pauseOnHover:true, //Stop animation while hovering
+		manualAdvance:false, //Force manual transitions
+		captionOpacity:1, //Universal caption opacity
+		beforeChange:function(){},
+		afterChange:function(){},
+		slideshowEnd:function(){} //Triggers after all slides have been shown
+	});
+});
+
+
+$(document).ready(function(){
+	$("#d2").hide();
+	$("#d3").hide();
+});
+function unhided2(){
+$("#d2").show(1000);
+$("#d1").hide(1000);
+$("#d3").hide(1000);
+}
+function home(){
+$("#d1").show(1000);
+$("#d2").hide(1000);
+$("#d3").hide(1000);
+$("#d4").hide(1000);
+$("#d5").hide(1000);
+}
+function unhided3(){
+$("#d3").show(1000);
+$("#d1").hide(1000);
+$("#d2").hide(1000);
+$("#d4").hide(1000);
+$("#d5").hide(1000);
+
+}
+
+function unhided4(){
+$("#d4").show(1000);
+$("#d1").hide(1000);
+$("#d2").hide(1000);
+$("#d3").hide(1000);
+$("#d5").hide(1000);
+
+}
+
+function unhided5(){
+$("#d5").show(1000);
+$("#d1").hide(1000);
+$("#d2").hide(1000);
+$("#d3").hide(1000);
+$("#d4").hide(1000);
+}
+</script>
+</body>
+</html>

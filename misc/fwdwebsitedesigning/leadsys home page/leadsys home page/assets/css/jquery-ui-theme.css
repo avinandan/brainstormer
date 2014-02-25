@@ -1,0 +1,68 @@
+
+/* Layout helpers
+----------------------------------*/
+.ui-helper-reset { margin: 0; padding: 0; border: 0; outline: 0; line-height: 18px; text-decoration: none; list-style: none; }
+
+/* Misc visuals
+----------------------------------*/
+.ui-accordion .ui-accordion-header { cursor: pointer; position: relative; zoom: 1; font-size: 16px !important; line-height: 18px !important; }
+.ui-accordion .ui-accordion-header a { display: block; padding: 8px 10px; }
+.ui-accordion-icons .ui-accordion-header a { padding-left: 26px; }
+.ui-accordion .ui-accordion-header .ui-icon { position: absolute; left: 0; top: 50%; margin-top: -8px; }
+.ui-accordion .ui-accordion-content { padding: 10px; padding-bottom: 0; border-top: 0; border-right: 0; border-bottom: 0; margin-top: -2px; position: relative; top: 1px; margin-bottom: 2px; margin-left: 7px; overflow: auto; display: none; zoom: 1; }
+.ui-accordion-header.ui-helper-reset {border: none;}/* Opera fix */
+.ui-accordion-header.ui-helper-reset.ui-state-active {border: none;}/* Opera fix */
+
+.ui-tabs { position: relative; padding: 0; zoom: 1; border: none !important; background: none !important;} /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+.ui-tabs .ui-tabs-nav { margin: 0; padding: 0; border-left: none; border-right: none; border-top: none; border-color: #e1e1e1;}
+.ui-tabs .ui-tabs-nav li { list-style: none; float: left; position: relative; top: 1px; margin: 0 .2em 1px 0; border-bottom: 0 !important; padding: 0; white-space: nowrap; }
+.ui-tabs .ui-tabs-nav li a { float: left; padding: 7px 10px; text-decoration: none; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected { margin-bottom: 0; padding-bottom: 1px; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text; }
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs .ui-tabs-panel { display: block; border-width: 0; padding: 9px; background: #fdfdfd; border: 1px solid #e1e1e1;}
+.ui-tabs .ui-tabs-hide { display: none !important; }
+
+/* Component containers
+----------------------------------*/
+.ui-widget { font-family: inherit/*{ffDefault}*/; font-size: 13px/*{fsDefault}*/; }
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: inherit; font-size: 13px; }
+.ui-widget-content { border: 1px solid #e1e1e1/*{borderColorContent}*/; background: transparent; color: #555/*{fcContent}*/; }
+.ui-widget-header { border: none/*{borderColorHeader}*/; background: none; }
+
+/* Interaction states
+----------------------------------*/
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: 1px solid/*{borderColorDefault}*/; background: none; font-weight: normal/*{fwDefault}*/; color: #555 !important/*{fcDefault}*/; }
+.ui-tabs-nav .ui-state-default{ border-color: transparent; background: none; }
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #555 /*!important {fcDefault}*/; text-decoration: none; }
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus { border: 1px solid #e1e1e1/*{borderColorDefault}*/; background: transparent; font-weight: normal/*{fwDefault}*/; color: #363636/*{fcHover}*/; }
+.ui-tabs-nav .ui-state-hover,.ui-tabs-nav .ui-state-focus{border-color: transparent;background: none;}
+.ui-state-hover a, .ui-state-hover a:hover { color: #363636 !important; text-decoration: none; }
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid #e1e1e1/*{borderColorActive}*/; background: transparent; font-weight: normal/*{fwDefault}*/; color: #363636 !important/*{fcActive}*/; }
+.ui-tabs-nav .ui-state-active{border: 1px solid #e1e1e1;background: #fdfdfd;}
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: #363636 /*!important {fcActive}*/; text-decoration: none; }
+.ui-widget :active { outline: none; }
+
+/* Icons
+----------------------------------*/
+
+/* states and images */
+.ui-icon { width: 16px; height: 16px; }
+.ui-icon-triangle-1-e { background-image: url(../HiGloss/16pxPNG/button-add-silver.png) !important }
+.ui-icon-triangle-1-s { background-image: url(../HiGloss/16pxPNG/button-minus-silver.png) !important }
+
+.ui-icon-triangle-1-s,
+.ui-icon-triangle-1-e{
+    background-position: 0 0;
+}
+/* Misc visuals
+----------------------------------*/
+
+/* Corner radius */
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { -moz-border-radius-topleft: 3px/*{cornerRadius}*/; -webkit-border-top-left-radius: 3px/*{cornerRadius}*/; -khtml-border-top-left-radius: 3px/*{cornerRadius}*/; border-top-left-radius: 3px/*{cornerRadius}*/; }
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { -moz-border-radius-topright: 3px/*{cornerRadius}*/; -webkit-border-top-right-radius: 3px/*{cornerRadius}*/; -khtml-border-top-right-radius: 3px/*{cornerRadius}*/; border-top-right-radius: 3px/*{cornerRadius}*/; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { -moz-border-radius-bottomleft: 3px/*{cornerRadius}*/; -webkit-border-bottom-left-radius: 3px/*{cornerRadius}*/; -khtml-border-bottom-left-radius: 3px/*{cornerRadius}*/; border-bottom-left-radius: 3px/*{cornerRadius}*/; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { -moz-border-radius-bottomright: 3px/*{cornerRadius}*/; -webkit-border-bottom-right-radius: 3px/*{cornerRadius}*/; -khtml-border-bottom-right-radius: 3px/*{cornerRadius}*/; border-bottom-right-radius: 3px/*{cornerRadius}*/; }
+.ui-accordion-content { -moz-border-radius: 0/*{cornerRadius}*/; -webkit-border-radius: 0/*{cornerRadius}*/; -khtml-border-radius: 0/*{cornerRadius}*/; border-radius: 0/*{cornerRadius}*/; }
+.ui-tabs-nav.ui-corner-all { -moz-border-radius-bottomright: 0/*{cornerRadius}*/; -webkit-border-bottom-right-radius: 0/*{cornerRadius}*/; -khtml-border-bottom-right-radius: 0/*{cornerRadius}*/; border-bottom-right-radius: 0/*{cornerRadius}*/; }
+.ui-tabs-panel { -moz-border-radius-topright: 3px/*{cornerRadius}*/; -webkit-border-top-right-radius: 3px/*{cornerRadius}*/; -khtml-border-top-right-radius: 3px/*{cornerRadius}*/; border-top-right-radius: 3px/*{cornerRadius}*/; -moz-border-radius-topleft: 3px/*{cornerRadius}*/; -webkit-border-top-left-radius: 3px/*{cornerRadius}*/; -khtml-border-top-left-radius: 3px/*{cornerRadius}*/; border-top-left-radius: 3px/*{cornerRadius}*/; }

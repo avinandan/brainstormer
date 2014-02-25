@@ -1,0 +1,95 @@
+/*----------------------------------------------------------------------------- 
+
+	-	services slider -
+
+Screen Stylesheet 
+
+version:   	1.0 
+date:      	09/18/11 
+author:		themepunch
+email:     	info@themepunch.com 
+website:   	http://www.themepunch.com
+-----------------------------------------------------------------------------*/
+
+.page-more{	
+	visibility:hidden;
+}
+.closer{
+	width:30px;
+	height:30px;
+	position:absolute;
+	background:url(../assets/button/close.png) no-repeat top;	
+	right:0px;
+	margin-right:-20px;
+	margin-top:-20px;
+	top:0px;	
+	cursor:pointer;
+	z-index:10000;
+}
+.closer:hover{
+	background-position:bottom;
+	opacity:0.5;
+	filter: alpha(opacity=50);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	cursor:pointer;
+}
+/**************************	
+	-	TOOLBAR	-
+**************************/
+.toolbar{visibility:hidden}
+.toolbar .left{
+	background:url(../assets/button/left.png) no-repeat top;
+	width:30px;
+	height:45px;
+	position:absolute;
+	left:0px;
+	top:60px;
+	z-index:100;
+	margin-left:-45px;
+	cursor:pointer;
+}
+.toolbar .left:hover{background-position:bottom;}
+.toolbar .right{
+	background:url(../assets/button/right.png) no-repeat top;
+	width:30px;
+	height:45px;
+	position:absolute;
+	right:0px;
+	top:60px;
+	z-index:100;	
+	margin-right:-45px;
+	cursor:pointer;
+}
+.toolbar .right:hover{background-position:bottom};
+/*************************************************
+	-	THE PRELOADER OF THE BANNER 	-
+*************************************************/
+.showbiz .services-preloader{
+	background:url(../assets/loader/preloader.gif) no-repeat;
+	width:24px;
+	height:24px;
+	position:absolute;
+	left:49%;
+	top:49%;
+	z-index:9999;
+}
+/****************************************
+	-	THE BLOG AND PLUS SIGNS - 
+****************************************/	
+.showbiz .hover-more-sign{
+	background:url('../assets/button/more.png') no-repeat;
+	width:50px;
+	height:50px;	
+	position:absolute;
+	margin-left:-25px;
+	margin-top:-25px;
+	cursor:pointer;
+}
+
+.showbiz .hover-blog-link-sign{
+	background:url('../assets/button/link.png') no-repeat;
+	width:50px;
+	height:50px;	
+	position:absolute;
+	cursor:pointer;
+}

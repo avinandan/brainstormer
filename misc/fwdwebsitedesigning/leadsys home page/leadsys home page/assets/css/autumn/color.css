@@ -1,0 +1,70 @@
+a{
+    color: #f2861b; 
+}
+h1 span,
+h2 span,
+h3 span,
+h4 span,
+h5 span,
+h6 span{
+    color: #f2861b;   
+}
+ul.navi li:hover a strong{
+    color: #f2861b;
+}
+ul.navi li.current a strong{
+    background-color: #f2861b;
+}
+ul.navi ul li a:hover{
+    background-color: #f2861b;
+}
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"]{
+    background-color: #f2861b;
+    border: 1px solid #f2861b;
+}
+.meta ul li a:hover{
+    color: #f2861b;
+}
+.pagination .current{
+    background-color: #f2861b;   
+}
+.tags a{
+    background-color: #f2861b;
+    border-color: #f2861b;
+}
+.dropcap1{
+    background-color: #f2861b;
+}
+.ui-widget-content a{
+    color: #f2861b;
+}
+.widget ul li a:hover{
+    color: #f2861b;
+}
+.post-widget .item a.comments{
+    background-color: #f2861b;
+}
+#options a:hover,
+.portfolio-pagination a:hover{
+    color: #f2861b;
+}
+#container.portfolio .element h4.hover{
+    color: #f2861b;  
+}
+blockquote span{
+    color: #f2861b; 
+}
+.showbiz-responsive .column h6.hover,
+.showbiz .item h6.hover{
+    color: #f2861b;
+}
+.sitemap ul li a:hover{
+    color: #f2861b;  
+}
+.sitemap-isotope .element h4.hover{
+    color: #f2861b;
+}

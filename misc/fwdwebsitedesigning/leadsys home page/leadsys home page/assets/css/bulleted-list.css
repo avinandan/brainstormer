@@ -1,0 +1,822 @@
+ul.agenda li{
+    background-image: url(../Web2Mini/agenda.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.alert li{
+    background-image: url(../Web2Mini/alert.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.archive li{
+    background-image: url(../Web2Mini/archive.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-green-backward li{
+    background-image: url(../Web2Mini/arrow-green-backward.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-green-down li{
+    background-image: url(../Web2Mini/arrow-green-down.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-green-forward li{
+    background-image: url(../Web2Mini/arrow-green-forward.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-green-left li{
+    background-image: url(../Web2Mini/agenda.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-green-right li{
+    background-image: url(../Web2Mini/arrow-green-right.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-green-up li{
+    background-image: url(../Web2Mini/arrow-green-up.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-orange-backward li{
+    background-image: url(../Web2Mini/arrow-orange-backward.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-orange-down li{
+    background-image: url(../Web2Mini/arrow-orange-down.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-orange-forward li{
+    background-image: url(../Web2Mini/arrow-orange-forward.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-orange-left li{
+    background-image: url(../Web2Mini/arrow-orange-left.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-orange-reload li{
+    background-image: url(../Web2Mini/arrow-orange-reload.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-orange-right li{
+    background-image: url(../Web2Mini/arrow-orange-right.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-orange-up li{
+    background-image: url(../Web2Mini/arrow-orange-up.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.arrow-reload li{
+    background-image: url(../Web2Mini/arrow-reload.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.bar-chart li{
+    background-image: url(../Web2Mini/bar-chart.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.bookmark li{
+    background-image: url(../Web2Mini/bookmark.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart li{
+    background-image: url(../Web2Mini/cart.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-add-blue li{
+    background-image: url(../Web2Mini/cart-add-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-add-green li{
+    background-image: url(../Web2Mini/cart-add-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-add-orange li{
+    background-image: url(../Web2Mini/cart-add-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-out-blue li{
+    background-image: url(../Web2Mini/cart-out-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-out-green li{
+    background-image: url(../Web2Mini/cart-out-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-out-orange li{
+    background-image: url(../Web2Mini/cart-out-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-remove-blue li{
+    background-image: url(../Web2Mini/cart-remove-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-remove-green li{
+    background-image: url(../Web2Mini/cart-remove-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cart-remove-orange li{
+    background-image: url(../Web2Mini/cart-remove-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cellphone li{
+    background-image: url(../Web2Mini/cellphone.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.check-green li{
+    background-image: url(../Web2Mini/check-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.check-orange li{
+    background-image: url(../Web2Mini/check-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.comment-add li{
+    background-image: url(../Web2Mini/comment-add.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.comment-arrow li{
+    background-image: url(../Web2Mini/comment-arrow.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.comment-edit li{
+    background-image: url(../Web2Mini/comment-edit.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.comment-green li{
+    background-image: url(../Web2Mini/comment-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.comment-grey li{
+    background-image: url(../Web2Mini/comment-grey.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.comment-orange li{
+    background-image: url(../Web2Mini/comment-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.comment-pink li{
+    background-image: url(../Web2Mini/comment-pink.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.comment-remove li{
+    background-image: url(../Web2Mini/comment-remove.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.computer li{
+    background-image: url(../Web2Mini/computer.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cursor li{
+    background-image: url(../Web2Mini/cursor.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.cursor-text li{
+    background-image: url(../Web2Mini/cursor-text.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.date-blue li{
+    background-image: url(../Web2Mini/date-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.date-green li{
+    background-image: url(../Web2Mini/date-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.date-orange li{
+    background-image: url(../Web2Mini/date-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.date-pink li{
+    background-image: url(../Web2Mini/date-pink.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.delete-green li{
+    background-image: url(../Web2Mini/delete-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.delete-orange li{
+    background-image: url(../Web2Mini/delete-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.discussion li{
+    background-image: url(../Web2Mini/discussion.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.display li{
+    background-image: url(../Web2Mini/display.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.edit li{
+    background-image: url(../Web2Mini/edit.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.email li{
+    background-image: url(../Web2Mini/email.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.favorite li{
+    background-image: url(../Web2Mini/favorite.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file li{
+    background-image: url(../Web2Mini/file.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-add li{
+    background-image: url(../Web2Mini/file-add.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-blue li{
+    background-image: url(../Web2Mini/file-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-edit li{
+    background-image: url(../Web2Mini/file-edit.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-green li{
+    background-image: url(../Web2Mini/file-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-grey li{
+    background-image: url(../Web2Mini/file-grey.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-next li{
+    background-image: url(../Web2Mini/file-next.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-orange li{
+    background-image: url(../Web2Mini/file-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-pink li{
+    background-image: url(../Web2Mini/file-pink.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-previous li{
+    background-image: url(../Web2Mini/file-previous.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-purple li{
+    background-image: url(../Web2Mini/file-purple.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.file-remove li{
+    background-image: url(../Web2Mini/file-remove.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.folder-blue li{
+    background-image: url(../Web2Mini/folder-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.folder-green li{
+    background-image: url(../Web2Mini/folder-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.folder-orange li{
+    background-image: url(../Web2Mini/folder-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.folder-pink li{
+    background-image: url(../Web2Mini/folder-pink.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.font-decrease li{
+    background-image: url(../Web2Mini/font-decrease.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.font-increase li{
+    background-image: url(../Web2Mini/font-increase.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.font-large li{
+    background-image: url(../Web2Mini/font-large.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.font-small li{
+    background-image: url(../Web2Mini/font-small.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.hand-down li{
+    background-image: url(../Web2Mini/hand-down.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.hand-left li{
+    background-image: url(../Web2Mini/hand-left.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.hand-right li{
+    background-image: url(../Web2Mini/hand-right.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.hand-up li{
+    background-image: url(../Web2Mini/hand-up.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.highlight li{
+    background-image: url(../Web2Mini/highlight.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.ipod li{
+    background-image: url(../Web2Mini/ipod.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.keyboard li{
+    background-image: url(../Web2Mini/keyboard.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.laptop li{
+    background-image: url(../Web2Mini/laptop.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.link li{
+    background-image: url(../Web2Mini/link.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.link2 li{
+    background-image: url(../Web2Mini/link2.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.lock li{
+    background-image: url(../Web2Mini/lock.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.monitor li{
+    background-image: url(../Web2Mini/monitor.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.mouse li{
+    background-image: url(../Web2Mini/mouse.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.music li{
+    background-image: url(../Web2Mini/music.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.network li{
+    background-image: url(../Web2Mini/network.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.package li{
+    background-image: url(../Web2Mini/package.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.photo li{
+    background-image: url(../Web2Mini/photo.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.pin-green li{
+    background-image: url(../Web2Mini/pin-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.pin-blue li{
+    background-image: url(../Web2Mini/pin-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.pin-grey li{
+    background-image: url(../Web2Mini/pin-grey.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.pin-pink li{
+    background-image: url(../Web2Mini/pin-pink.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.pin-red li{
+    background-image: url(../Web2Mini/pin-red.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.podcast li{
+    background-image: url(../Web2Mini/podcast.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.printer li{
+    background-image: url(../Web2Mini/printer.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.profile-id li{
+    background-image: url(../Web2Mini/profile-id.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.rss-blue li{
+    background-image: url(../Web2Mini/rss-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.rss-green li{
+    background-image: url(../Web2Mini/rss-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.rss-grey li{
+    background-image: url(../Web2Mini/rss-grey.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.rss-orange li{
+    background-image: url(../Web2Mini/rss-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.rss-pink li{
+    background-image: url(../Web2Mini/rss-pink.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.rss-violet li{
+    background-image: url(../Web2Mini/rss-violet.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.search li{
+    background-image: url(../Web2Mini/search.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.sitemap li{
+    background-image: url(../Web2Mini/sitemap.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.star li{
+    background-image: url(../Web2Mini/star.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.sticky-note li{
+    background-image: url(../Web2Mini/sticky-note.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.stop li{
+    background-image: url(../Web2Mini/stop.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.switch li{
+    background-image: url(../Web2Mini/switch.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-blue li{
+    background-image: url(../Web2Mini/tag-blue.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-brown li{
+    background-image: url(../Web2Mini/tag-brown.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-dark li{
+    background-image: url(../Web2Mini/tag-dark.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-green li{
+    background-image: url(../Web2Mini/tag-green.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-grey li{
+    background-image: url(../Web2Mini/tag-grey.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-lime li{
+    background-image: url(../Web2Mini/tag-lime.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-orange li{
+    background-image: url(../Web2Mini/tag-orange.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-pink li{
+    background-image: url(../Web2Mini/tag-pink.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-purple li{
+    background-image: url(../Web2Mini/tag-purple.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-red li{
+    background-image: url(../Web2Mini/tag-red.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tag-yellow li{
+    background-image: url(../Web2Mini/tag-yellow.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.time li{
+    background-image: url(../Web2Mini/time.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tools li{
+    background-image: url(../Web2Mini/tools.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.tools2 li{
+    background-image: url(../Web2Mini/tools2.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.usb li{
+    background-image: url(../Web2Mini/usb.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.user li{
+    background-image: url(../Web2Mini/user.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.user-female li{
+    background-image: url(../Web2Mini/user-female.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.user-male li{
+    background-image: url(../Web2Mini/user-male.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.valid-access li{
+    background-image: url(../Web2Mini/valid-access.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.valid-css li{
+    background-image: url(../Web2Mini/valid-css.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.valid-html li{
+    background-image: url(../Web2Mini/valid-html.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.valid-rss li{
+    background-image: url(../Web2Mini/valid-rss.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.valid-w3c li{
+    background-image: url(../Web2Mini/valid-w3c.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.valid-wai li{
+    background-image: url(../Web2Mini/valid-wai.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.valid-xml li{
+    background-image: url(../Web2Mini/valid-xml.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}
+ul.window li{
+    background-image: url(../Web2Mini/window.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding-left: 26px !important;
+}

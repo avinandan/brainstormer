@@ -1,0 +1,25 @@
+#header-bg{
+	background: #424254; /* Old browsers */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c8c8ff), color-stop(100%,#424254)); 
+	background: -moz-radial-gradient(center, ellipse cover,  #c8c8ff 0%, #424254 100%); /* FF3.6+ */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#c8c8ff), color-stop(100%,#424254)); /* Chrome,Safari4+ */
+	background: -webkit-radial-gradient(center, ellipse cover,  #c8c8ff 0%,#424254 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-radial-gradient(center, ellipse cover,  #c8c8ff 0%,#424254 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover,  #c8c8ff 0%,#424254 100%); /* IE10+ */
+	background: radial-gradient(center, ellipse cover,  #c8c8ff 0%,#424254 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#424254', endColorstr='#c8c8ff',GradientType=0 ); /* IE6-8 fallback on horizontal gradient */
+}
+#copyright a{
+    color: #424254;
+}
+.dropcap2{
+    background-color: #424254;
+}
+.theme_table tr.description td.selected,
+.theme_table tr.price td.selected{
+    background-color: #424254; 
+}
+.theme_table .selected .button{
+    background-color: #424254; 
+    border-color: #424254;
+}

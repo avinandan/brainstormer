@@ -1,0 +1,18 @@
+.portfolio-gallery .overlay_backgrond,
+.portfolio .element .overlay_backgrond,
+.img .overlay_backgrond{
+    background-image: url(../images/icons/overlay_zoom-in.png);
+    background-repeat: no-repeat;
+    outline: 0 none;
+    text-indent: -9999px;
+    margin: -27px 0 0 -27px;
+}
+.img.link .overlay_backgrond,
+.portfolio .element .link .overlay_backgrond,
+.post .img .overlay_backgrond{
+    background-image: url(../images/icons/overlay_link.png);
+}
+.hoveralls_container{
+    width: 100% !important;
+    height: auto !important;
+}

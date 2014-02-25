@@ -1,0 +1,78 @@
+.showbiz{
+    position: relative;
+}
+.showbiz .main-container{
+}
+.showbiz .item{
+    list-style: none;
+}
+.showbiz-responsive h6,
+.showbiz h6{
+    font-size: 16px !important;
+    margin-bottom: 9px;
+}
+.showbiz .item .info{
+    text-align: center;
+}
+.showbiz.left .item .info{
+    text-align: left;
+}
+.showbiz .imgholder img:hover{
+    opacity: .8 !important; /* Chrome 4+, FF2+, Saf3.1+, Opera 9+, IE9, iOS 3.2+, Android 2.1+ */
+    filter: alpha(opacity=80) !important; /* IE6-IE8 */
+}
+.showbiz .imgholder .bw{
+    display: none;
+}
+.showbiz .hover-more-sign{
+	background:url('../images/icons/overlay_zoom-in.png') no-repeat;
+	width:54px;
+	height:54px;	
+}
+.showbiz .hover-blog-link-sign{
+	background:url('../images/icons/overlay_link.png') no-repeat;
+	width:54px;
+	height:54px;	
+}
+.showbiz .closer{
+    width: 16px;
+    height: 12px;
+    margin: 0;
+	background :url(../Web2Mini/delete-green.png) no-repeat;
+}
+.showbiz .meta ul{
+    margin-bottom: 0;
+}
+.showbiz .meta ul li{
+    display: inline-block;
+    padding: 0 0 0 21px !important;
+    margin-right: 10px;
+    margin-bottom: 0;
+    color: #959595;
+    line-height: 27px;
+    background-repeat: no-repeat;
+    background-position: 0 8px;
+}
+
+
+.sitemap .showbiz{
+    height: 216px;
+}
+.sitemap .showbiz .item .slide{
+    width: 140px !important;
+    padding: 5px 0 0 5px;
+    overflow: visible !important;
+}
+.sitemap .showbiz .page-more{
+    width: 620px !important;
+    padding: 0 5px;
+}
+.sitemap .showbiz .page-more .content{
+    padding-right: 20px;
+}
+.showbiz .toolbar .left{
+	background:url(../Web2Mini/arrow-green-left.png) no-repeat;
+}
+.showbiz .toolbar .right{
+	background:url(../Web2Mini/arrow-green-right.png) no-repeat;
+}
